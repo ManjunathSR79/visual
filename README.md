@@ -5,6 +5,17 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 
+<style  >
+h1 {text-align:center; color:red; width: 50% ;padding=10%
+    }
+    p {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+</style>
 
     <title>
      
